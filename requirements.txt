@@ -1,0 +1,12 @@
+Flask
+flask-mysqldb
+flask-login
+werkzeug
+openai
+groq
+google-genai
+openpyxl
+PyPDF2
+matplotlib
+pandas
+python-dotenv
